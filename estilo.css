@@ -2,5 +2,13 @@
 margin: 0;
 padding: 0;
 box-sizing: border-box;
+}
+body {
+    background: url(login\ img.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 
 }
